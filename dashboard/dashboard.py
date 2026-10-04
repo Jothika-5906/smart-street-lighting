@@ -228,7 +228,10 @@ hr {
 # DATA PATH
 # ==========================================================
 
-DATASET_PATH = r"C:\SmartStreetLighting\dataset"
+ DATASET_PATH = os.path.join(
+    os.path.dirname(os.path.dirname(__file__)),
+    "data"
+)
 
 street_file = os.path.join(
     DATASET_PATH,
