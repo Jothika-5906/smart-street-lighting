@@ -1,9 +1,6 @@
-# smart-street-lighting
- A Big Data-based smart street lighting system for monitoring energy consumption, traffic, motion, brightness, and faults using Python, Apache Kafka, Hadoop HDFS, Pandas, Plotly, and Streamlit..
-
 # 💡 Smart Street Lighting Energy Optimization System
 
-A Big Data-based smart street lighting system for monitoring and analyzing street-light energy consumption, traffic, motion, brightness, and faults.
+A Big Data-based smart street lighting system for monitoring and analyzing street-light energy consumption, traffic, motion, brightness, and faults using Python, Apache Kafka, Hadoop HDFS, Pandas, Plotly, and Streamlit.
 
 ## 📌 Project Overview
 
@@ -39,12 +36,11 @@ Street Light Sensor Data
       Hadoop HDFS
           │
           ▼
-   Data Processing &
-       Analysis
+ Data Processing & Analysis
           │
           ▼
-   Pandas / Python
+      Pandas / Python
           │
           ▼
- Streamlit + Plotly
-     Dashboard
+   Streamlit + Plotly
+       Dashboard
